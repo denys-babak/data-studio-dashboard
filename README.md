@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A Business Intelligence solution built with **Google BigQuery** and **Looker Studio** that enables executives and operational teams to explore retail sales performance through interactive dashboards.
+A Business Intelligence solution built with **Google BigQuery** and **Data Studio** that enables executives and operational teams to explore retail sales performance through interactive dashboards.
 
 
 ## Live Dashboards
