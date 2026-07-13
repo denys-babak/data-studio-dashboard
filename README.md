@@ -1,9 +1,9 @@
 # GoOutside Retail Business Intelligence Dashboard
 
 ## Project Overview
-A Business Intelligence solution built using BigQuery and Looker Studio to analyze retail sales performance.
 
----
+A Business Intelligence solution built with **Google BigQuery** and **Looker Studio** that enables executives and operational teams to explore retail sales performance through interactive dashboards.
+
 
 ## Live Dashboards
 
